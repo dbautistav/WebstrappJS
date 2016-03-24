@@ -12,6 +12,7 @@ Clone this repo (or download it as zip) in order to start a new project based on
 [Check open issues](https://github.com/dbautistav/WebstrappJS/issues) and show your support to existing feature requests or [create a new one](https://github.com/dbautistav/WebstrappJS/issues/new) if it is needed.
 
 ## Notes
+- Check [Git Submodules](https://www.git-scm.com/book/en/v2/Git-Tools-Submodules) to "deploy" the built project to gh-pages.
 - _Still under active development._
 
 ## LICENSE
